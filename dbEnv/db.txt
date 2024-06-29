@@ -1,0 +1,2 @@
+php artisan make:migration create_products_table
+php artisan migrate --path=/database/migrations/2024_06_29_052015_create_products_table.php
